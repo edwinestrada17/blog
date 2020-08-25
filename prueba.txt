@@ -1,1 +1,3 @@
 esta es una prueba de comandos
+
+debo practicar mas git y github
